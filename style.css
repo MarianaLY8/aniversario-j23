@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #01204E;
+}
+p {
+  color: #F2F2F2;
+  font-family: 'Courier New', sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  }
+.mensaje p{
+  font-family: 'Comic Sans MS';
+  color: #ce841c;
+}
+.encabezado img{
+  height: 120px;
+  margin: 30px;
+}
+div {
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pastel img{
+  margin: 30px;
+  height: 350px;
+}
